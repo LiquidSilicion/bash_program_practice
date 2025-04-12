@@ -1,2 +1,2 @@
 echo 'hello'
- ech 'everyone'
+echo 'everyone'
